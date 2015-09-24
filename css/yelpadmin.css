@@ -1,0 +1,73 @@
+/*----- YELP BAR -----*/
+
+#themeforce-yelpbar .yelpapi {
+	color:#414141;
+	margin:15px 3px;
+	height:20px;
+	width:474px;
+	line-height:20px;
+	padding:10px;
+	line-height:20px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background: transparent url('../images/statusbg.jpg') repeat-x 0px 0px;
+	text-shadow: 0 1px 0 #ffffff;
+	-moz-box-shadow: 0px 0px 6px rgba(20,20,20,.40);
+	-webkit-box-shadow: 0px 0px 6px rgba(20,20,20,.40);
+	box-shadow: 0px 0px 6px rgba(20,20,20,.40);
+}
+
+.themeforce {
+	color:#c15600;      
+	background:#eeeeee url('../images/info.png') no-repeat 10px 10px;
+	line-height:18px;
+	padding:10px 10px 10px 70px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	margin-bottom:20px;
+	-moz-box-shadow: 0px 0px 6px rgba(20,20,20,.40);
+	-webkit-box-shadow: 0px 0px 6px rgba(20,20,20,.40);
+	box-shadow: 0px 0px 6px rgba(20,20,20,.40);
+	overflow:auto;
+}
+
+.themeforce a {
+	color:#ff7200;
+}
+
+.themeforce p {
+    text-shadow: 0 1px 0 #ffffff;
+    float:left;
+    margin:0 0 10px 0;
+    padding:0px;
+    line-height:18px;
+}
+
+.themelinks {
+    float:left;
+    margin:10px 0 20px 0;
+}
+
+div.themelinks:nth-child(even) {
+    margin-right:10px;
+}
+
+#themeforce-yelpbar .yelpstatus {
+	float:left;
+	margin-right:10px;
+}
+
+#themeforce-yelpbar .activated.yelpapi {
+
+}
+
+#themeforce-yelpbar .neutral.yelpapi {
+
+}
+
+#themeforce-yelpbar .deactivated.yelpapi  {
+
+}
+	
